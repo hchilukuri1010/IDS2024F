@@ -1,2 +1,11 @@
-# IDS2024F - Introduction to Data Scicence (Fall 2024)
-This project contains all my activates relating to Data 1301: Intro to Data Science
+# IDS2024F - Introduction to Data Science (Fall 2024)
+This project contains all my activities relating to Data 1301: Intro to Data Science
+---
+**Name:** Harshit Chilukuri  
+**School ID:** 1002211273  
+**Email:** hxc1273@mavs.uta.edu  
+**Major:** Aerospace Engineering  
+**University:** The University of Texas at Arlington  
+**Level:** Undergraduate Freshman  
+**Position Title:** Student  
+**Course Webpage:** https://www.cdslab.org/
