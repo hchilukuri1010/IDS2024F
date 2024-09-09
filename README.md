@@ -5,7 +5,7 @@ This project contains all my activities relating to Data 1301: Intro to Data Sci
 **School ID:** 1002211273  
 **Email:** hxc1273@mavs.uta.edu  
 **Major:** Aerospace Engineering  
-**University:** The University of Texas at Arlington  
+**University:** [The University of Texas at Arlington](https://www.uta.edu/)  
 **Level:** Undergraduate Freshman  
 **Position Title:** Student  
 **Course Webpage:** https://www.cdslab.org/
