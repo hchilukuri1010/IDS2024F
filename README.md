@@ -10,4 +10,4 @@ This project contains all my activities relating to Data 1301: Intro to Data Sci
 **Position Title:** Student  
 **Course Webpage:** https://www.cdslab.org/  
 **Photo**:  
-![Proffesor](https://www.cdslab.org/recipes/programming/vcs-using-git-github/AmirShahmoradi.png)  
+![Portriat of Me](IMG_1936.jpg)  
