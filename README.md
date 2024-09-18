@@ -17,7 +17,7 @@ This project contains all my activities relating to Data 1301: Intro to Data Sci
 
 This repository contains my homework, quizzes, and virtually every effort I have made for Intro to Data Science. The structure of the project is the following:
 
-+  [Homework](./Homework):
++  [Homework](./homework):
   This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
 +  [Quiz](./Quiz):
