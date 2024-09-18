@@ -1,4 +1,4 @@
-**Homework 1 for Sept,18 2024**  
+# **Homework 1 for Sept,18 2024**  
 The 3 historical types of version control systems are:  
 +  Local VCS
 +  Centralized VCS (CVCS)
