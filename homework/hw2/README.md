@@ -1,5 +1,5 @@
 # **Homework 2 for October 2, 2024**  
-![Languages Flowchart](file:///C:/Users/harsh/OneDrive/Documents/progLangChartPuzzle.pdf)  
+![Languages Flowchart](progLangChartPuzzle.pdf)  
 **Sort the above languages chronologically and write them here. Write down the decade during which these languages were developed.**  
 ---
 +  FORTRAN (1950s)
