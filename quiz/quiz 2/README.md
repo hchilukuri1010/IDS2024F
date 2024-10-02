@@ -93,7 +93,7 @@ Name a programming language ancestor of C++ (Hint: Use the diagrams from our lec
 + C with Classes.  
 
 Name a programming language ancestor of MATLAB and a programming language ancestor of Python (Hint: Use the diagrams from our lecture notes).
-+ ABC and Oberon. 
++ ABC and Oberon for Python. Fortran for MATLAB.
 
 How do you define logarithm? Explain with a simple example just as we did in class.  
 + A logarithm is a math operation that is the inverse of an exponential function with the function Log serving as the main base.
