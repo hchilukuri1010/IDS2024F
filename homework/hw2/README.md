@@ -55,28 +55,29 @@ What is the smallest unit of information in computer science?
 +  FORTRAN.
   
 (B) Approximately how many decades is it old?  
-+  FORTRAN is about 7 decades old (developed in the 1950s).
++  FORTRAN is about 7 decades.
   
 (A) Name a second-generation programming language.  
 +  Assembly language.
   
 (B) Which language generation are Fortran, C, C++, MATLAB, Python, R?  
-+  These are third-generation programming languages (3GL).
++  These are third-generation programming languages.
   
 In what decades were C, C++, and MATLAB/Python created, respectively?  
-+  C: 1970s
-+  C++: 1980s
-+  MATLAB/Python: 1980s (MATLAB), 1990s (Python).
++  C: 1970
++  C++: 1980
++  MATLAB: 1980
++  Python: 1990
   
 Name an ancestor programming language of C.  
-+  B or ALGOL.
++  B.
   
 Name a programming language ancestor of C++.  
 +  C.
   
 Name a programming language ancestor of MATLAB and a programming language ancestor of Python.  
-+  MATLAB: FORTRAN (influenced the matrix computation style).
-+  Python: ABC and Modula-3.
++  MATLAB: FORTRAN
++  Python: ABC
 
 **Memory Hierarchy and Performance:**
 ---
@@ -87,7 +88,7 @@ What is typically the smallest memory unit in the memory hierarchy of modern com
 +  Bit.
   
 How much faster is the access to the register memory compared to RAM in modern computers?  
-+  Registers are typically 100 to 1000 times faster than RAM.
++  Registers are about 100 to 1000 times faster than RAM.
   
 How much faster is the access to RAM compared to typical SSD hard drives in modern computers?  
 +  RAM is about 100 times faster than SSDs.
@@ -101,7 +102,7 @@ What are the primary roles of transistors in computers?
 +  Transistors act as switches and amplifiers for electrical signals, enabling logic operations and data storage.
   
 Why can't we add more transistors to computers to make them faster?  
-+  More transistors increase heat output and power consumption, leading to diminishing returns and physical limits on chip design (like thermal and power constraints).
++  More transistors increase heat output and power consumption, leading to diminishing returns and physical limits on chip design.
   
 What are the three tasks accomplished within a CPU cycle?  
 +  Fetch, Decode, and Execute.
