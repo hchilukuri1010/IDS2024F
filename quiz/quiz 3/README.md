@@ -1,5 +1,5 @@
 Name and describe briefly the steps involved in scientific inference.  
-+  
++  First a natural phenomenon occurs. This leads to some observational data to be taken, which the leads to model construction, calibration, and validation. After all these steps occur then a prediction is formed. This is a brief description of the scientific inference.
 
 Name the three pillars of science.  
 +  Theory
@@ -35,12 +35,12 @@ Illustrate the logical disjunction via a Venn Diagram.
 +  
 
 What does it mean if two Boolean propositions are equal?  
-+  two propositions with the same truth value are equally plausible.
++  Two propositions with the same truth value are equally plausible.
    
 What is the result of adding two propositions that complement each other Explain your answer with an example.
 +  At least one of the propositions, A, B is true. For example, when it rains(A) there are clouds(B). Without B, A won't happen.  So B is always true if A is happening.  
 
-What is the result of multiplying (that is, conjunction of) two propositions that complement each other? Explain you answer with an example.  
+What is the result of multiplying (that is, conjunction of) two propositions that complement each other? Explain your answer with an example.  
 +  Both A and B are true. For example, the light(A) causes photosynthesis to occur in plants(B). This is true both ways, if photosynthesis is to occur it needs light.
 
 Display the logical implication A⇒B via a Venn diagram.
