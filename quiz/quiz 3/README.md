@@ -32,7 +32,7 @@ Illustrate the logical conjunction via a Venn Diagram.
 +  [Venn Diagram](Image.jpeg)  
 
 Illustrate the logical disjunction via a Venn Diagram.  
-+  
++  [Venn Diagram](Image.jpeg)  
 
 What does it mean if two Boolean propositions are equal?  
 +  Two propositions with the same truth value are equally plausible.
@@ -45,7 +45,7 @@ What is the result of multiplying (that is, conjunction of) two propositions tha
 
 Display the logical implication A⇒B via a Venn diagram.
 (Hint. Think about the meaning of logical implication A⇒B: If A is true, then B must be true. If A is false, then B can be either true or false. What configuration of A and B circles in a Venn diagram would correspond to the above statement for logical implication? Recall that when you are inside an object (circle) in a Venn diagram, it means the proposition corresponding to that object is true. When you are outside, the proposition is false.)  
-+  
++  [Venn Diagram](Image.jpeg)  
 
 What is the tiniest unit of information?  
 +  The bit is the tiniest unit of information. It can take one of two values: 0 or 1.  
