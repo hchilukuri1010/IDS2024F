@@ -29,7 +29,7 @@ Who is the Boolean algebra named after?
 +  George Boole 
 
 Illustrate the logical conjunction via a Venn Diagram.  
-+  
++  [Venn Diagram](image.jpeg)  
 
 Illustrate the logical disjunction via a Venn Diagram.  
 +  
