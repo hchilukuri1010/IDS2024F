@@ -1,3 +1,5 @@
+# **Quiz 3 October 16, 2024**  
+---
 Name and describe briefly the steps involved in scientific inference.  
 +  First a natural phenomenon occurs. This leads to some observational data to be taken, which the leads to model construction, calibration, and validation. After all these steps occur then a prediction is formed. This is a brief description of the scientific inference.
 
