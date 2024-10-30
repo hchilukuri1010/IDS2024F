@@ -1,1 +1,1 @@
-[The Quiz 1](quiz4.jpg) [The Quiz 2](quiz4a.jpg)
+[The Quiz A](quiz4a.jpeg) [The Quiz B](quiz4b.jpeg)
