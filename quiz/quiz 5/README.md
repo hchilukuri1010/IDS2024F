@@ -1,7 +1,8 @@
-Title
+# Quiz 5 November 20, 2024  
+---
 
 Express the mathematical meaning of π(A|B).  
-+  d
++  
 
 Name four major historical definitions of Probability.  
 +  Classical Probability
@@ -81,7 +82,7 @@ The combination of a set of position scales and their relative geometric arrange
 Coordinate systems allow us to assign unique IDs (a set of numbers called coordinates) to a unique location on a map (think of Google map pins, for example).
 When we deal with data, these unique IDs are often assumed to be data values that we want to visualize and each coordinate axis corresponds to a single data attribute.
 Given this information, which one of the following three coordinates is valid and can be used to represent data or visualize the data attribute values? (Hint: Recall that the sole criterion for the validity of coordinates is the ability to assign a unique set of numbers (data values) to unique points in the coordinates space (visualization space).)
-+  d
++  I would choose the e1 and e2 graph because unlike the other graphs, this graph allows each data point to have it's unique value.
 
 Consider the following color palettes. Which one is more appropriate for effective visualization communications with humans?  
 +  The second pallet. The first pallet may pose a challenge to a reader of the data who might be colorblind.
