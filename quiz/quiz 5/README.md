@@ -88,11 +88,14 @@ Consider the following color palettes. Which one is more appropriate for effecti
 +  The second pallet. The first pallet may pose a challenge to a reader of the data who might be colorblind.
 
 Which city’s temperature is the least varying throughout the year (mostly the same temperature)?  
-+ San Diego  
++ San Diego
+
 Which city’s temperature is the wildest varying throughout the year (sometimes relatively very hot or some times relatively very cold)?  
-+  Chicago  
++  Chicago
+
 Which city is the hottest in the month of January?  
-+  San Diego  
++  San Diego
+
 Which city is the coolest in the month of July?  
 +  San Diego  
 
