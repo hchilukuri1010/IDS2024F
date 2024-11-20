@@ -12,3 +12,10 @@ Name the 2 major classes of aesthetics.
 +  Primary Aesthetics: Directly map the represented data, such as its position in scatter plots.
 +  Secondary Aesthetics: Help clarify the visualization for example its color, shape, and size.
 
+Name the two major data types and provide an example for each category.
++  Quantitative data: Data that has measurable quantities. For example age, temperature, or grade.
++  Qualitative data: Data that is in groups. This includes types of fruits or regions on a map.  
+
+What is a common name for variables that hold qualitative data?  
++  Categorical Variables
+
