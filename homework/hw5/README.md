@@ -51,7 +51,7 @@ What's wrong with the visualization?
 Consider the following color palettes. Which one is more appropriate for effective visualization communications with humans?  
 +  The second palette is more appropriate. The reason becasue the first pallete is going to be hard on color-blind humans. The second palette can help a wide range of humans.
 
-DATASCI.jpeg
+[HW](DATASCI.jpeg)  
 
 The four major schools are:
 +  Classical Probability
