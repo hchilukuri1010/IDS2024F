@@ -2,7 +2,7 @@
 ---
 
 Express the mathematical meaning of π(A|B).  
-+  
++  This means that the probability of A is measured under the belief or condition that B is true.  
 
 Name four major historical definitions of Probability.  
 +  Classical Probability
@@ -51,7 +51,7 @@ What is the difference between factors and levels?
 +   Factors: Categorical variables in a dataset.
 +   Levels: The unique categories within a factor.
 
-Name the two major types of data and provide an example for each category.  
+Name the two major data types and provide an example for each category.  
 + Quantitative data: Data that has measurable quantities. For example age, temperature, or grade.
 + Qualitative data: Data that is in groups. This includes types of fruits or regions on a map.
 
@@ -73,7 +73,7 @@ Professional Data Scientists tend to avoid 3D plots in their visualizations. Why
 
 Recall our class discussions on the kinds of data, for example, numerical vs. categorical.
 Describe an example dataset that could be classified as either numerical or categorical, depending on how it is represented.  
-+  
++  A day variable could be considered as numerical or categorical. This is because you could categorize the day by the name of the day or you could categorize the day by its date. But it all depends on how the situation needs the day to be defined as.  
 
 Is color a categorical/unordered or quantitative/ordered aesthetic?
 +  Color is a categorical/unordered aesthetic. This is because with color you can organize it and it doesn't have to follow a certain order.  
@@ -88,12 +88,12 @@ Consider the following color palettes. Which one is more appropriate for effecti
 +  The second pallet. The first pallet may pose a challenge to a reader of the data who might be colorblind.
 
 Which city’s temperature is the least varying throughout the year (mostly the same temperature)?  
-+ San Diego
-Which city’s temperature is the wildest varying throughout the year (sometimes relatively very hot or some times relatively very cold)?
-+  Chicago
-Which city is the hottest in the month of January?
-+  San Diego
-Which city is the coolest in the month of July?
++ San Diego  
+Which city’s temperature is the wildest varying throughout the year (sometimes relatively very hot or some times relatively very cold)?  
++  Chicago  
+Which city is the hottest in the month of January?  
++  San Diego  
+Which city is the coolest in the month of July?  
 +  San Diego  
 
 Which classes of color scales the following color-mappings belong to?  
