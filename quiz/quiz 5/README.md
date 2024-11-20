@@ -29,23 +29,40 @@ Why is Bayesian Probability Theory more popular among physicists and engineers a
 When did the first modern definition of Probability appear in history?  
 +  It appeared in Frequentist Probability around the 1780s.
 
-What kinds of uncertainty exist in our experiments?
+What kinds of uncertainty exist in our experiments?  
++  Aleatory Uncertainty
++  Epistemic Uncertainty  
 
-Suppose there is a donkey outside the classroom. I ask you what you observe and tell me what you see. You tell me that you see a horse. What kind of uncertainty is involved in your observation?
+Suppose there is a donkey outside the classroom. I ask you what you observe and tell me what you see. You tell me that you see a horse. What kind of uncertainty is involved in your observation?  
++  Epistemic Uncertainty  
 
-what are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.
+What are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.  
++  Aesthetics in data visualization refer to the visual elements that represent data and aid in understanding patterns, trends, and relationships. Examples include position, color, size, and shape.
 
-Name the two major classes of aesthetics.
+Name the two major classes of aesthetics.  
++  Primary Aesthetics  
++  Secondary Aesthetics  
 
-What is the difference between factors and levels?
+What is the difference between factors and levels?  
++   Factors: Categorical variables in a dataset.
++   Levels: The unique categories within a factor.
 
-Name the two major types of data and provide an example for each category.
+Name the two major types of data and provide an example for each category.  
++ Quantitative data: Data that has measurable quantities. For example age, temperature, or grade.
++ Qualitative data: Data that is in groups. This includes types of fruits or regions on a map.
 
-What is the common name for variables holding data?
+What is the common name for variables holding data?  
++  Data Attribute  
 
-Provide examples of ordered and unordered data.
+Provide examples of ordered and unordered data.  
++  Ordered Data: Data with a meaningful sequence. Example: Education levels like undergrad, masters, PhD.
++  Unordered Data: Data with no inherent order. Examples are animals cats, dogs, mice, and birds.
 
-Name four different color scales and explain their most appropriate usage.
+Name four different color scales and explain their most appropriate usage.  
++  Sequential Color Scale: Used for visualizing data with a natural progression, such as temperature, population density, or elevation.
++  Diverging Color Scale: Ideal for showing data with deviations from a reference point, such as profit/loss or temperature anomalies.
++  Categorical Color Scale: Used for non-ordered categorical data, such as regions, product types, or political parties.
++  Perceptually Uniform Color Scale: Ideal for precise and accurate interpretation of data, especially for scientific visualizations or accessibility for colorblind users.  
 
 Professional Data Scientists tend to avoid 3D plots in their visualizations. Why?
 
