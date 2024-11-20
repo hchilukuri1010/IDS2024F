@@ -4,7 +4,10 @@ Express the mathematical meaning of π(A|B).
 +  d
 
 Name four major historical definitions of Probability.  
-+  d
++  Classical Probability
++  Frequentist Probability
++  Subjective Probability
++  Axiomatic Probability
 
 Name four major historical definitions of Probability.
 Which school(s) of thought defines probability as the degree of belief?  
