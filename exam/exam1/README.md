@@ -73,8 +73,28 @@ Wrong visualization
 +  The problem with the visualization is that you can't have an age younger than 0.
 
 Why is everything represented by integers in computers?  
-+  
++  Because at the foundation of computer data, the integer values of 0 and 1 represent the on and off status.  
 
 Name an ancestor programming language of C.
++  BCPL is the ancestor of the C coding language branch.  
 
-Name the first high-level programming language in computer history.
+Name the first high-level programming language in computer history.  
++  Fortran  
+
+22) NEED TO ANSWER  
+  
+24) NEED TO ANSWER  
+
+Name the two different categories of logical reasoning and provide and example of each class.  
++  
+
+What does it mean if two Boolean propositions are equal?  
++  
+
+26) Need Answer
+27) Need Answer
+28) Need Answer
+29) Need Answer
+30) Need Answer
+What types of fundamental uncertainties can you identify in nature? Which one is intrinsic?
++  Aleatory Uncertainty and Epistemic Uncertainty.
