@@ -40,5 +40,41 @@ Could this dataset be classified as time-series data? Why?
 We can see a slight rise in temperature anomaly around the 1940s, followed by a slight temporary decline in temperature anomaly. What’s the likely reason for the observed trend around this time?  
 +  The increase in the temperature can be attributed to the world events during that time such as World War II. The heavy industrializing that took place during that time could have introduced an anomaly increasing the global land temperature. The slight decrease afterward could be the adjustment back to normal temperatures after the war was over. The slight decrease is the self-adjustment of the environment and data.
 
-Can we represent probability as we define in science using integer numbers?  
+Can we represent the probability as we define in science using integer numbers?  
++  No we cannot. Because we cannot define probability in a negative value or less than zero.
+
+What are the consistency criteria required to define probability?  
++  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
++  We must always consider all the evidence relevant to a question. We should not arbitrarily ignore some information, basing the conclusions only on what remains.
++  We must always represent equivalent states of knowledge by equivalent plausibility assignments. That is, if the state of knowledge is the same (except perhaps for labeling the propositions) in two problems, then it must assign the same plausibilities in both.  
+
+What is the equivalent of the following binary numbers 1, 01, and 10 in decimal representation?  
 +  
+
+Are real numbers representable in modern digital computers? Explain you answer.  
++  
+
+Logic, Implication, Denial, Equivalence  
++  
+
+What is the difference between Git and GitHub?  
++  
+
+Which school(s) of probability theory allow the incorporation of expert (prior) knowledge in scientific inference?  
++   Classical/Bayesian Probability.  
+
+When data is scarce, which school of probability theory is the most useful for scientific inference?  
++  Bayesian School.
+
+Which school of thought in Probability Theory cannot define or discuss the probability of the existence of God? Why?  
++  Frequentist. Because they only rely on data. So since God is a personal experience with each person having different experiences there cannot be data hence they don't define or discuss God.
+
+Wrong visualization
++  The problem with the visualization is that you can't have an age younger than 0.
+
+Why is everything represented by integers in computers?  
++  
+
+Name an ancestor programming language of C.
+
+Name the first high-level programming language in computer history.
