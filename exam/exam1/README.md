@@ -95,7 +95,8 @@ What does it mean if two Boolean propositions are equal?
 26) [26](FINAL@@.jpeg) 
 27) The symbol represents conditional probability.
 28) The answer is 1683. The way I got to this answer is that I saw that the first term is 3 and the difference between the first and second terms is 3. Then I realized that the final number is 99 and there are 33 numbers. I factored 3 out of the equation. Then I used a formula from my previous HW to get the answer 1683.
-29) Need Answer
-30) Need Answer
-What types of fundamental uncertainties can you identify in nature? Which one is intrinsic?
-+  Aleatory Uncertainty and Epistemic Uncertainty.
+29) [29](12321.jpeg) 
+30) [20](12321.jpeg) 
+31) [21](12321.jpeg) 
+What types of fundamental uncertainties can you identify in nature? Which one is intrinsic?  
++  Aleatory Uncertainty and Epistemic Uncertainty.  Aleatory is intrinsic.
