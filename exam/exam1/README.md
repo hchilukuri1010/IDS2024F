@@ -49,16 +49,16 @@ What are the consistency criteria required to define probability?
 +  We must always represent equivalent states of knowledge by equivalent plausibility assignments. That is, if the state of knowledge is the same (except perhaps for labeling the propositions) in two problems, then it must assign the same plausibilities in both.  
 
 What is the equivalent of the following binary numbers 1, 01, and 10 in decimal representation?  
-+  
++  1=1, 01=1, 10=2
 
 Are real numbers representable in modern digital computers? Explain you answer.  
-+  
++  Real numbers are not representable in modern digital computers because real numbers can hit infinity. Computers use finite binary values to approximate real numbers. 
 
 Logic, Implication, Denial, Equivalence  
 +  
 
 What is the difference between Git and GitHub?  
-+  
++  Git is a software developed for version control systems while GitHub is a service that has Git but also can cater to a wider variety of needs.
 
 Which school(s) of probability theory allow the incorporation of expert (prior) knowledge in scientific inference?  
 +   Classical/Bayesian Probability.  
