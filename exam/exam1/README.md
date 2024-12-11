@@ -25,3 +25,20 @@ Name the three pillars of science.
 +  Theroy, Expierment, and Computation.
 
 Is logical implication the same as physical causation? Explain with a real-world example.  
++  No it isn't the same. For example, if a burglar enters the house, the jewelry is missing. The physical causation is that the jewelry is missing. But the logical implication could be that someone else took it. Logical implication does not mean the burglar caused the jewelry to go missing, it means someone else could have taken it.  
+
+Suppose we have fit the following red line to the following blue dataset representing the global temperature increase of Earth over the past centuries.  
+Is this visually a good fit in your opinion? Why?  
++  It is not a good fit. The reason it isn't a good fit is that the red linear trendline does not describe the data trend.  
+
+What type of uncertainty dominates this dataset in the early years (before 1850)?  
++  Outliers. Before 1850 the data has a lot of outliers causing the data to spread more than it has to. The outliers skew the data causing the spread to increase and show us unnecessary data for the graph. The outliers can be attributed to the uncertainties in the measurement devices during that time. As the years progress the data becomes more fine and the data visuals more accurate.
+
+Could this dataset be classified as time-series data? Why?  
++  Yes. Because the x-axis is based on years.
+
+We can see a slight rise in temperature anomaly around the 1940s, followed by a slight temporary decline in temperature anomaly. What’s the likely reason for the observed trend around this time?  
++  The increase in the temperature can be attributed to the world events during that time such as World War II. The heavy industrializing that took place during that time could have introduced an anomaly increasing the global land temperature. The slight decrease afterward could be the adjustment back to normal temperatures after the war was over. The slight decrease is the self-adjustment of the environment and data.
+
+Can we represent probability as we define in science using integer numbers?  
++  
