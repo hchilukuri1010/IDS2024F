@@ -85,15 +85,16 @@ Name the first high-level programming language in computer history.
   
 24) NEED TO ANSWER  
 
-Name the two different categories of logical reasoning and provide and example of each class.  
-+  
+Name the two different categories of logical reasoning and provide an example of each class.  
++ Deductive Reasoning: If all humans are mortals and I am a human therefore I am a mortal.
++ Inductive Reasoning: If the sun rises from the East then the sun will rise from the eat as well tomorrow.
 
 What does it mean if two Boolean propositions are equal?  
-+  
++  Two Boolean propositions are equal if they produce the same truth value under all possiblities. 
 
 26) Need Answer
 27) Need Answer
-28) Need Answer
+28) The answer is 1683. The way I got to this answer is that I saw that the first term is 3 and the difference between the first and second terms is 3. Then I realized that the final number is 99 and there are 33 numbers. I factored 3 out of the equation. Then I used a formula from my previous HW to get the answer 1683.
 29) Need Answer
 30) Need Answer
 What types of fundamental uncertainties can you identify in nature? Which one is intrinsic?
