@@ -1,3 +1,5 @@
+# **Final Exam December 11, 2024**  
+---
 What is the difference between observational data and reality (truth)?  
 +  The difference between observational data and reality is that reality is a biased vision differing with each person while observational data cannot be biased or skewed.  
 
@@ -97,6 +99,7 @@ What does it mean if two Boolean propositions are equal?
 28) The answer is 1683. The way I got to this answer is that I saw that the first term is 3 and the difference between the first and second terms is 3. Then I realized that the final number is 99 and there are 33 numbers. I factored 3 out of the equation. Then I used a formula from my previous HW to get the answer 1683.
 29) [29](12321.jpeg) 
 30) [20](12321.jpeg) 
-31) [21](12321.jpeg) 
+31) [21](12321.jpeg)
+
 What types of fundamental uncertainties can you identify in nature? Which one is intrinsic?  
 +  Aleatory Uncertainty and Epistemic Uncertainty.  Aleatory is intrinsic.
