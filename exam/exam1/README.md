@@ -55,7 +55,7 @@ Are real numbers representable in modern digital computers? Explain you answer.
 +  Real numbers are not representable in modern digital computers because real numbers can hit infinity. Computers use finite binary values to approximate real numbers. 
 
 Logic, Implication, Denial, Equivalence  
-+  
++  [Logical Implication](LOGICAL.jpeg) 
 
 What is the difference between Git and GitHub?  
 +  Git is a software developed for version control systems while GitHub is a service that has Git but also can cater to a wider variety of needs.
